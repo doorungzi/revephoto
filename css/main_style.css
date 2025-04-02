@@ -2,13 +2,12 @@
 @charset 'utf-8';
 /* 웹폰트는 초반에 넣기 */
 
-.noto-serif-kr {
+.noto-serif-kr-<uniquifier> {
     font-family: "Noto Serif KR", serif;
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
 }
-
 @font-face {
     font-family: 'InkLipquid';
     src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/InkLipquid.woff') format('woff');
