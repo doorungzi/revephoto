@@ -130,6 +130,8 @@ body {
     padding: 0 25px;
     padding-bottom: 20px;
     color: #8C1812;
+    font-size: 18px;
+    line-height: 1.5em;
 }
 
 .gnb li::after {
