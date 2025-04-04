@@ -1698,6 +1698,9 @@ body {
     }
 
     /* section2 */
+    #section2{
+        margin-bottom: 0;
+    }
     .moments_slide_wrap {
         height: 400px;
         background-color: rgba(0, 0, 0, 0);
